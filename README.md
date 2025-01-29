@@ -1,2 +1,2 @@
 # GlucoseAI-Predictor
-This project aims to forecast blood sugar levels in diabetic patients using machine learning techniques, with a focus on Recurrent Neural Networks (RNNs).
+This project aims to investigate the optimal feature space for predicting sugar in diabetics.  The influence of human physiological model as a feature for training recurrent network, statistical features is investigated.
